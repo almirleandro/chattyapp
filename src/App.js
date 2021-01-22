@@ -46,8 +46,8 @@ function SignIn() {
 
   return (
     <>
-      <button className="sign-in" onClick={signInWithGoogle}>Fazer login com uma conta Google</button>
-      <p className='firstInfo'>Suas mensagens e imagem de perfil ficarão visíveis publicamente ao enviar uma mensagem. Evite ser rude e respeite os outros usuários.</p>
+      <button className="sign-in" onClick={signInWithGoogle}>Sign in with a Google account</button>
+      <p className='firstInfo'>Your messages and profile image are going to be visible to anyone when you send a message. Please, don't be rude or disrespectful to the other users.</p>
     </>
   )
 }
@@ -55,7 +55,7 @@ function SignIn() {
 function SignOut() {
   return auth.currentUser && (
 
-    <button className="sign-out" onClick={() => auth.signOut()}>Sair da conta</button>
+    <button className="sign-out" onClick={() => auth.signOut()}>Sign Out</button>
   )
 }
 
