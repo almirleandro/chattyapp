@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/chattyapp/static/css/main.7d6ed228.chunk.css",
-    "main.js": "/chattyapp/static/js/main.291e3362.chunk.js",
-    "main.js.map": "/chattyapp/static/js/main.291e3362.chunk.js.map",
+    "main.css": "/chattyapp/static/css/main.4fa2c7cc.chunk.css",
+    "main.js": "/chattyapp/static/js/main.269dae45.chunk.js",
+    "main.js.map": "/chattyapp/static/js/main.269dae45.chunk.js.map",
     "runtime-main.js": "/chattyapp/static/js/runtime-main.b71e2812.js",
     "runtime-main.js.map": "/chattyapp/static/js/runtime-main.b71e2812.js.map",
     "static/js/2.2d436a05.chunk.js": "/chattyapp/static/js/2.2d436a05.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.ac617e5f.chunk.js": "/chattyapp/static/js/3.ac617e5f.chunk.js",
     "static/js/3.ac617e5f.chunk.js.map": "/chattyapp/static/js/3.ac617e5f.chunk.js.map",
     "index.html": "/chattyapp/index.html",
-    "static/css/main.7d6ed228.chunk.css.map": "/chattyapp/static/css/main.7d6ed228.chunk.css.map",
+    "static/css/main.4fa2c7cc.chunk.css.map": "/chattyapp/static/css/main.4fa2c7cc.chunk.css.map",
     "static/js/2.2d436a05.chunk.js.LICENSE.txt": "/chattyapp/static/js/2.2d436a05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b71e2812.js",
     "static/js/2.2d436a05.chunk.js",
-    "static/css/main.7d6ed228.chunk.css",
-    "static/js/main.291e3362.chunk.js"
+    "static/css/main.4fa2c7cc.chunk.css",
+    "static/js/main.269dae45.chunk.js"
   ]
 }
